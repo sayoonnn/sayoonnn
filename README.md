@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/cmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/docker_compose-r2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/docker_compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <br/>
 
 ### 🗺️ 사용해 본 적 있어요
