@@ -20,7 +20,7 @@
 
 <br/>
 
-## 🛠️ TECH STACK 
+## 🛠️ 이런 것들을 사용해 봤어요
 ### ⭐️⭐️⭐️
 ![](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/cmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
