@@ -22,28 +22,28 @@
 
 ## 🛠️ TECH STACK 
 ### 💪 익숙해요
-![](https://img.shields.io/badge/c-rgba(0,0,0,0)?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![](https://img.shields.io/badge/c++-rgba(0,0,0,0)?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![](https://img.shields.io/badge/cmake-rgba(0,0,0,0)?style=for-the-badge&logo=cmake&logoColor=064F8C)
-![](https://img.shields.io/badge/docker-rgba(0,0,0,0)?style=for-the-badge&logo=docker&logoColor=2496ED)
-![](https://img.shields.io/badge/docker_compose-rgba(0,0,0,0)?style=for-the-badge&logo=docker&logoColor=2496ED)
+![](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/cmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/docker_compose-r2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <br/>
 
 ### 🗺️ 사용해 본 적 있어요
 
-![](https://img.shields.io/badge/html-rgba(0,0,0,0)?style=for-the-badge&logo=react&logoColor=E34F26)
-![](https://img.shields.io/badge/javascript-rgba(0,0,0,0)?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/react-rgba(0,0,0,0)?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/react_query-rgba(0,0,0,0)?style=for-the-badge&logo=reactquery&logoColor=FF4154)
-![](https://img.shields.io/badge/css-rgba(0,0,0,0)?style=for-the-badge&logo=css3&logoColor=1572B6)
-![](https://img.shields.io/badge/sass-rgba(0,0,0,0)?style=for-the-badge&logo=sass&logoColor=CC6699)
+![](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/react_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 <br/>
 
-![](https://img.shields.io/badge/python-rgba(0,0,0,0)?style=for-the-badge&logo=python&logoColor=3776AB)
-![](https://img.shields.io/badge/django-rgba(0,0,0,0)?style=for-the-badge&logo=django&logoColor=092E20)
-![](https://img.shields.io/badge/socketio-rgba(0,0,0,0)?style=for-the-badge&logo=socketdotio&logoColor=white)
-![](https://img.shields.io/badge/spring-rgba(0,0,0,0)?style=for-the-badge&logo=spring&logoColor=6DB33F)
-![](https://img.shields.io/badge/springboot-rgba(0,0,0,0)?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/socketio-red?style=for-the-badge&logo=socketdotio&logoColor=white)
+![](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 <br/>
 <br/>
