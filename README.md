@@ -38,10 +38,6 @@
 
 <br/>
 <br/>
-
-## 🔭 진행중인 프로젝트 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taco-official&repo=klkl-client)](https://github.com/taco-official/klkl-client)
-
 <br/>
 
 <!--
