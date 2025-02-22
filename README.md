@@ -7,7 +7,7 @@
 
 <br/>
 
-## 📚 여기서 공부했어요
+## 📚 Studied At
 
 ### [42 Seoul](https://42seoul.kr/) <sub> 2023.10 ~ </sub>
 
@@ -19,16 +19,17 @@
 
 <br/>
 
-## 🛠️ 이런 것들을 사용해 봤어요
+## 🛠️ Skills
 
+### Strong
 ![](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/cmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-<br/>
-
-![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/cmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <br/>
 
-![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Knowledgeable
+![](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=auto)
 ![](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/socketio-red?style=for-the-badge&logo=socketdotio&logoColor=white)
